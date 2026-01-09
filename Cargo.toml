@@ -1,0 +1,10 @@
+[package]
+name = "autodiff-rs"
+version = "0.1.0"
+edition = "2024"
+
+[dependencies]
+egui = "0.33.3"
+eframe = "0.33.3"
+winit = "0.30.12"
+rand = "0.9.2"
